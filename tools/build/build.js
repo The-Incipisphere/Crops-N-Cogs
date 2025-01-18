@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
-* Build script for monifactory-modern
+* Build script for Crops 'N Cogs
 *
 * This script uses Juke Build, read the docs here:
 * https://github.com/stylemistake/juke-build

@@ -1,4 +1,4 @@
-# Monifactory build script
+# Crops 'N Cogs build script
 
 Uses juke from <https://github.com/tgstation/tgstation>
 

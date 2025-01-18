@@ -18,6 +18,7 @@
 !/KNOWN-ISSUES.md
 
 # Keep the mods that will have to be added to the pack's repo for the time being.
+!/mods/
 !/mods/cropsncogscore-*.jar
 !/mods/greate-*.jar
 

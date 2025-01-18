@@ -2,16 +2,16 @@
 /*
 
 # Keep the key files and folders, like configs, kjs scripts, etc.
-!/config
-!/config-overrides
-!/kubejs
-!/defaultconfigs
+!/config/
+!/config-overrides/
+!/kubejs/
+!/defaultconfigs/
 !/.gitignore
 !/.gitattributes
 !/manifest.json
-!/tools
+!/tools/
 /tools/bootstrap/.cache
-!/.github
+!/.github/
 !.editorconfig
 !/CONTRIBUTING.md
 !/FAQ.md
@@ -26,7 +26,7 @@
 /kubejs/probe
 /kubejs/config/probejs.json
 
-#Ignore all code-generated files.
+# Ignore all code-generated files.
 kubejs/client_scripts/Dev_Capes.js
 config/fancymenu/customization/pack_credit_screen_layout.txt
 
@@ -70,9 +70,9 @@ $RECYCLE.BIN/
 
 ### Config files
 
-#Ignore all client-only files
+# Ignore all client-only files
 /config/**/*client.*
-#Except these
+# Except these
 ##!! REPLACEME: Client-side scripts that we need to keep.
 
 # Don't ignore the Create client config so we can remove the Main Menu config button.
@@ -80,3 +80,7 @@ $RECYCLE.BIN/
 !/config/create-client.toml
 
 # Other configs to ignore go under this line.
+
+# these are updatable at the whim of players
+/config/fml.toml
+/config/jei/

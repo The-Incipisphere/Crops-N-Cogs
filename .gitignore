@@ -3,7 +3,7 @@
 
 # Keep the key files and folders, like configs, kjs scripts, etc.
 !/config/
-!/config-overrides/
+# !/config-overrides/
 !/kubejs/
 !/defaultconfigs/
 !/.gitignore
@@ -74,14 +74,35 @@ $RECYCLE.BIN/
 # Ignore all client-only files
 /config/**/*client.*
 # Except these
-##!! REPLACEME: Client-side scripts that we need to keep.
+#!! REPLACEME: Client-side scripts that we need to keep.
 
 # Don't ignore the Create client config so we can remove the Main Menu config button.
 # It gets in the way of the beautiful FancyMenu.
 !/config/create-client.toml
 
-# Other configs to ignore go under this line.
+## Other configs to ignore go under this line.
 
-# these are updatable at the whim of players
+# client only
 /config/fml.toml
 /config/jei/
+
+# configs that are automatically updated by the mods themselves, often just to update a timestamp or something
+# if any of these are needed, workarounds will need to be made
+/config/embeddium-options.json
+/config/embeddium++.toml
+/config/embeddium-fingerprint.json
+config/embeddium-mixins.properties
+kubejs/config/client.properties
+config/konkrete/locals/
+config/jade/sort-order.json
+config/immediatelyfast.json
+config/MouseTweaks.cfg
+config/emi.css
+config/skinlayers.json
+config/fancymenu/user_variables.db
+config/fancymenu/legacy_checklist.txt
+config/ExtraQuests/locale.json
+config/balm-common.toml
+config/jade/plugins.json
+config/jade/jade.json
+kubejs/assets/ponderjs_generated/lang/en_us.json

@@ -3,7 +3,7 @@
 
 # Keep the key files and folders, like configs, kjs scripts, etc.
 !/config/
-# !/config-overrides/
+!/config-overrides/
 !/kubejs/
 !/defaultconfigs/
 !/.gitignore
@@ -28,8 +28,8 @@
 /kubejs/config/probejs.json
 
 # Ignore all code-generated files.
-kubejs/client_scripts/Dev_Capes.js
-config/fancymenu/customization/pack_credit_screen_layout.txt
+/kubejs/client_scripts/Dev_Capes.js
+/config/fancymenu/customization/pack_credit_screen_layout.txt
 
 # Options.txt. Need I say more?
 ./options.txt
@@ -91,18 +91,18 @@ $RECYCLE.BIN/
 /config/embeddium-options.json
 /config/embeddium++.toml
 /config/embeddium-fingerprint.json
-config/embeddium-mixins.properties
-kubejs/config/client.properties
-config/konkrete/locals/
-config/jade/sort-order.json
-config/immediatelyfast.json
-config/MouseTweaks.cfg
-config/emi.css
-config/skinlayers.json
-config/fancymenu/user_variables.db
-config/fancymenu/legacy_checklist.txt
-config/ExtraQuests/locale.json
-config/balm-common.toml
-config/jade/plugins.json
-config/jade/jade.json
-kubejs/assets/ponderjs_generated/lang/en_us.json
+/config/embeddium-mixins.properties
+/kubejs/config/client.properties
+/config/konkrete/locals/
+/config/jade/sort-order.json
+/config/immediatelyfast.json
+/config/MouseTweaks.cfg
+/config/emi.css
+/config/skinlayers.json
+/config/fancymenu/user_variables.db
+/config/fancymenu/legacy_checklist.txt
+/config/ExtraQuests/locale.json
+/config/balm-common.toml
+/config/jade/plugins.json
+/config/jade/jade.json
+/kubejs/assets/ponderjs_generated/lang/en_us.json

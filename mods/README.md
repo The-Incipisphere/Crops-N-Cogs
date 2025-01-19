@@ -1,6 +1,7 @@
-# To those who are concerned:
+# To those who are concerned by the two jar files here:
 
-The coremod is here until I release this pack on curseforge (and simultaneously release the coremod)
+The coremod for this modpack (`cropsncogscore`) will remain here for the time being. It will hopefully be removed when the modpack reaches a stable enough state for release on CurseForge. At that point, the coremod will also be released on CurseForge.
 
-Greate is also here, because that mod is not yet available on Curseforge. I have recieved permission from Electrolyte, the main developer to include the mod directly in this repository (see below)
+Additionally, **Greate** is included here, as the mod is not yet available on CurseForge. I have received permission from Electrolyte, the main developer of Greate, to include the mod's `.jar` file directly in this repository. 
+
 ![Proof of permission from Electrolyte](https://i.imgur.com/1bbYnxB.png)

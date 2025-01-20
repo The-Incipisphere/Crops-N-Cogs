@@ -7,14 +7,14 @@
  * @value A short reason of the issues that the block/item is causing. MUST be an Array.
  */
 global.problematicBlocksAndItems = new Map([
-    [
-        'forestry:trade_station', 
+    // Template to denote less-than-functional items:
+    /*[
+        'modname:problematicblockoritem', 
         [
-            "The Trade Station's GUI is",
-            "currently COMPLETELY nonfunctional",
-            "and §l§nCANNOT§r be closed without",
-            "opening FTB Quests's GUI.",
-            "(or force-closing the game)"
+            "Reason (line 1)",
+            "Reason (line 2)",
+            "Reason (line 3)",
+            "..."
         ]
-    ]
+    ]*/
 ]);

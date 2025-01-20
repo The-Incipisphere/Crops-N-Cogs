@@ -2,7 +2,7 @@ recipes:
   # Whether to generate Flawed and Chipped Gems for materials and recipes involving them.
   # Useful for mods like TerraFirmaCraft.
   # Default: false
-  generateLowQualityGems: false
+  generateLowQualityGems: true
 
   # Whether to remove Block/Ingot compression and decompression in the Crafting Table.
   # Default: true
@@ -92,7 +92,7 @@ recipes:
 worldgen:
   # Rubber Tree spawn chance (decimal % per chunk)
   # Default: 0.5
-  rubberTreeSpawnChance: 0.5
+  rubberTreeSpawnChance: 0.1
 
   # Should all Stone Types drop unique Ore Item Blocks?
   # Default: false (meaning only Stone, Netherrack, and Endstone)
@@ -110,7 +110,7 @@ worldgen:
 
   # Allow GregTech to add additional GregTech Items as loot in various structures.
   # Default: true
-  addLoot: true
+  addLoot: false
 
   oreVeins:
     # The grid size (in chunks) for ore vein generation

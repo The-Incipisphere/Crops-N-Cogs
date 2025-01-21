@@ -107,3 +107,4 @@ $RECYCLE.BIN/
 /config/jade/jade.json
 /kubejs/assets/ponderjs_generated/lang/en_us.json
 config/watermedia/custom_vlc_path.txt
+config/sound_physics_remastered/*

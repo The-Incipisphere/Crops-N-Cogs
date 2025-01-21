@@ -72,14 +72,17 @@ $RECYCLE.BIN/
 
 ### Config files
 
-# Ignore all client-only files
-/config/**/*client.*
-# Except these
-#!! REPLACEME: Client-side scripts that we need to keep.
+## Client-side configs
 
-# Don't ignore the Create client config so we can remove the Main Menu config button.
+# Initially ignore all client-side configs
+/config/**/*client.*
+
+# Don't ignore the Create client config, so we can remove the Main Menu config button.
 # It gets in the way of the beautiful FancyMenu.
 !/config/create-client.toml
+
+# Don't ignore Better Tags' config, so we can remove all but the NBT and Tag tooltips.
+!/config/bettertags-client.toml
 
 ## Other configs to ignore go under this line.
 

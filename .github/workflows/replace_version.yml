@@ -11,5 +11,5 @@ jobs:
     name: Replace manifest version
     runs-on: ubuntu-latest
     steps:
-      - run: ls -alh && sed -i s/\"version\":\ \"development\"/\"version\":\ \"${{ inputs.version }}\"/ manifest.json
+      - run: sed -i s/\"version\":\ \"development\"/\"version\":\ \"${{ inputs.version }}\"/ manifest.json
         shell: bash

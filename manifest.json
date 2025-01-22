@@ -1,5 +1,19 @@
 {
+    "minecraft": {
+        "modLoaders": [
+            {
+                "id": "forge-47.3.7",
+                "primary": true
+            }
+        ],
+        "version": "1.20.1"
+    },
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "name": "Crops 'N Cogs",
+    "version": "development",
     "author": "TheDogOfChaos",
+    "overrides": "overrides",
     "files": [
         {
             "fileID": 4578262,
@@ -576,19 +590,5 @@
             "projectID": 945479,
             "required": true
         }
-    ],
-    "manifestType": "minecraftModpack",
-    "manifestVersion": 1,
-    "minecraft": {
-        "modLoaders": [
-            {
-                "id": "forge-47.3.7",
-                "primary": true
-            }
-        ],
-        "version": "1.20.1"
-    },
-    "name": "Crops 'N Cogs",
-    "overrides": "overrides",
-    "version": "alpha-0.0.3"
+    ]
 }

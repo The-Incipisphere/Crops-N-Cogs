@@ -5,6 +5,10 @@
 !/config/
 !/config-overrides/
 !/kubejs/
+!/scripts/
+!/ldlib/
+!/patchouli_books/
+!/quests_structures/
 !/defaultconfigs/
 !/.gitignore
 !/.gitattributes

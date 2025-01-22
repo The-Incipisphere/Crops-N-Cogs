@@ -12,11 +12,6 @@
             "required": true
         },
         {
-            "fileID": 5932570,
-            "projectID": 682363,
-            "required": true
-        },
-        {
             "fileID": 4688940,
             "projectID": 551894,
             "required": true
@@ -595,5 +590,5 @@
     },
     "name": "Crops 'N Cogs",
     "overrides": "overrides",
-    "version": "alpha-0.0.2"
+    "version": "alpha-0.0.3"
 }

@@ -11,7 +11,7 @@ import path, { resolve } from 'path';
 import { env } from 'process';
 import Juke from './juke/index.js';
 import { DownloadCF, GetModInfo } from './lib/curseforge.js';
-import { CodegenCreditsTarget } from './codegen/credits/target.js';
+// import { CodegenCreditsTarget } from './codegen/credits/target.js';
 
 Juke.chdir('../..', import.meta.url);
 Juke.setup({ file: import.meta.url }).then((code) => {
@@ -119,7 +119,7 @@ export const KeyParameter = new Juke.Parameter({
   type: 'string'
 })
 
-export * from './codegen/credits/target.js';
+// export * from './codegen/credits/target.js';
 
 export const BuildModlistTarget = new Juke.Target({
   parameters: [KeyParameter],
@@ -230,7 +230,7 @@ export const DownloadModsTarget = new Juke.Target({
 });
 
 export const BuildClientTarget = new Juke.Target({
-  dependsOn: [CodegenCreditsTarget, BuildModlistTarget],
+  dependsOn: [BuildModlistTarget],
   inputs: [
     ...includeList,
     "dist/modlist.html"

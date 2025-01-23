@@ -119,3 +119,8 @@ config/modernfix-mixins.properties
 config/NoChatReports/NCR-Encryption.json
 config/NoChatReports/NCR-ServerPreferences.json
 config/NoChatReports/README.md
+config/almostunified/debug.json
+config/pneumaticcraft/ArmorFeatureStatus.cfg
+config/pneumaticcraft/PneumaticArmorHUDLayout.cfg
+config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg
+config/pneumaticcraft/MicromissileDefaults.cfg

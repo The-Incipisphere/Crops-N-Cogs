@@ -2,12 +2,40 @@
 	default_autoclaim_rewards: "disabled"
 	default_consume_items: false
 	default_quest_disable_jei: false
-	default_quest_shape: "circle"
+	default_quest_shape: "square"
 	default_reward_team: false
 	detection_delay: 20
 	disable_gui: false
 	drop_loot_crates: false
-	emergency_items_cooldown: 300
+	emergency_items: [{
+		Count: 1
+		id: "minecraft:bundle"
+		tag: {
+			CustomModelData: 1
+			Items: [
+				{
+					Count: 2b
+					id: "cropsncogscore:chalcopyrite_seed"
+				}
+				{
+					Count: 2b
+					id: "cropsncogscore:magnetite_seed"
+				}
+				{
+					Count: 2b
+					id: "cropsncogscore:coal_seed"
+				}
+			]
+			display: {
+				Lore: [
+					"[\"\",{\"text\":\"There's a label attatched...\",\"italic\":false}]"
+					"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"Teterrimi discriminis\",\"italic\":false,\"bold\":true,\"color\":\"dark_green\"}]"
+				]
+				Name: "[\"\",{\"text\":\"Emergency Seed Pouch\",\"italic\":false}]"
+			}
+		}
+	}]
+	emergency_items_cooldown: 1200
 	grid_scale: 0.5d
 	icon: "gtceu:iron_gear"
 	lock_message: ""

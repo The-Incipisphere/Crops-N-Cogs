@@ -1,0 +1,62 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "strange_new_world"
+	group: ""
+	icon: "minecraft:oak_sapling"
+	id: "3C3132268A2B06C4"
+	images: [{
+		height: 1.5d
+		image: "minecraft:block/azalea_top"
+		rotation: 0.0d
+		width: 1.5d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		icon: "minecraft:wheat_seeds"
+		id: "21A0205876A10CE7"
+		rewards: [{
+			id: "5ABDEC1965E06125"
+			item: {
+				Count: 1
+				id: "minecraft:bundle"
+				tag: {
+					CustomModelData: 1
+					Items: [
+						{
+							Count: 8b
+							id: "cropsncogscore:coal_seed"
+						}
+						{
+							Count: 8b
+							id: "cropsncogscore:magnetite_seed"
+						}
+						{
+							Count: 8b
+							id: "cropsncogscore:chalcopyrite_seed"
+						}
+					]
+					display: {
+						Lore: [
+							"[\"\",{\"text\":\"There's a label attatched...\",\"italic\":false}]"
+							"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"Ex Seminibus\",\"italic\":false,\"color\":\"dark_green\",\"bold\":true}]"
+						]
+						Name: "[\"\",{\"text\":\"Starter Seed Pouch\",\"italic\":false}]"
+					}
+				}
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "4B31AD32F431796F"
+			type: "checkmark"
+		}]
+		title: "<insert witty title here about beginnings>"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Strange New World"
+}

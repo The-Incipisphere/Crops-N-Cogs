@@ -116,3 +116,6 @@ $RECYCLE.BIN/
 config/sound_physics_remastered/*
 config/chat_heads.json5
 config/modernfix-mixins.properties
+config/NoChatReports/NCR-Encryption.json
+config/NoChatReports/NCR-ServerPreferences.json
+config/NoChatReports/README.md

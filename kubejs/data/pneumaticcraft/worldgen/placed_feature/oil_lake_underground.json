@@ -1,0 +1,9 @@
+{
+    "feature": "pneumaticcraft:oil_lake",
+    "placement": [
+		{
+			"type": "minecraft:count",
+			"count": 0
+		}
+    ]
+}

@@ -42,7 +42,7 @@
 					display: {
 						Lore: [
 							"[\"\",{\"text\":\"There's a label attatched...\",\"italic\":false}]"
-							"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"Ex Seminibus\",\"italic\":false,\"color\":\"dark_green\",\"bold\":true}]"
+							"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"\'Ex Seminibus\'\",\"italic\":false,\"color\":\"dark_green\",\"bold\":true}]"
 						]
 						Name: "[\"\",{\"text\":\"Starter Seed Pouch\",\"italic\":false}]"
 					}

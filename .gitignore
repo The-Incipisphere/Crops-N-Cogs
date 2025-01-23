@@ -101,7 +101,6 @@ $RECYCLE.BIN/
 /config/embeddium++.toml
 /config/embeddium-fingerprint.json
 /config/embeddium-mixins.properties
-/kubejs/config/client.properties
 /config/konkrete/locals/
 /config/jade/sort-order.json
 /config/MouseTweaks.cfg

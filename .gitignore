@@ -10,6 +10,7 @@
 !/patchouli_books/
 !/quests_structures/
 !/defaultconfigs/
+!/rawAssets/
 !/.gitignore
 !/.gitattributes
 !/manifest.json

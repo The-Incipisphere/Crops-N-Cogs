@@ -16,7 +16,6 @@
     "overrides": "overrides",
     "files": [
         {
-            "moddetails": "AI Improvements 0.5.2",
             "fileID": 4578262,
             "projectID": 233019,
             "required": true
@@ -669,16 +668,6 @@
         {
             "fileID": 5299534,
             "projectID": 975586,
-            "required": true
-        },
-        {
-            "fileID": 4906217,
-            "projectID": 823106,
-            "required": true
-        },
-        {
-            "fileID": 6120431,
-            "projectID": 1163800,
             "required": true
         }
     ]

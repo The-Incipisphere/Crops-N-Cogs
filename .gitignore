@@ -125,3 +125,4 @@ config/pneumaticcraft/ArmorFeatureStatus.cfg
 config/pneumaticcraft/PneumaticArmorHUDLayout.cfg
 config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg
 config/pneumaticcraft/MicromissileDefaults.cfg
+config/fabric/indigo-renderer.properties

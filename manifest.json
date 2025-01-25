@@ -1,4 +1,6 @@
 {
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
     "minecraft": {
         "modLoaders": [
             {
@@ -8,12 +10,10 @@
         ],
         "version": "1.20.1"
     },
-    "manifestType": "minecraftModpack",
-    "manifestVersion": 1,
     "name": "Crops 'N Cogs",
+    "overrides": "overrides",
     "version": "development",
     "author": "TheDogOfChaos",
-    "overrides": "overrides",
     "files": [
         {
             "fileID": 4578262,
@@ -66,12 +66,12 @@
             "required": true
         },
         {
-            "fileID": 6099163,
+            "fileID": 6109933,
             "projectID": 257814,
             "required": true
         },
         {
-            "fileID": 6045226,
+            "fileID": 6115444,
             "projectID": 1083780,
             "required": true
         },
@@ -131,8 +131,13 @@
             "required": true
         },
         {
-            "fileID": 5876199,
+            "fileID": 6106101,
             "projectID": 324717,
+            "required": true
+        },
+        {
+            "fileID": 4583425,
+            "projectID": 623560,
             "required": true
         },
         {
@@ -146,7 +151,7 @@
             "required": true
         },
         {
-            "fileID": 6018299,
+            "fileID": 6123077,
             "projectID": 268560,
             "required": true
         },
@@ -266,7 +271,7 @@
             "required": true
         },
         {
-            "fileID": 6086695,
+            "fileID": 6122857,
             "projectID": 407206,
             "required": true
         },
@@ -426,7 +431,7 @@
             "required": true
         },
         {
-            "fileID": 5958591,
+            "fileID": 6106616,
             "projectID": 1071737,
             "required": true
         },
@@ -501,6 +506,11 @@
             "required": true
         },
         {
+            "fileID": 5532573,
+            "projectID": 1062867,
+            "required": true
+        },
+        {
             "fileID": 5817338,
             "projectID": 594387,
             "required": true
@@ -516,12 +526,17 @@
             "required": true
         },
         {
+            "fileID": 5299534,
+            "projectID": 975586,
+            "required": true
+        },
+        {
             "fileID": 5109692,
             "projectID": 938643,
             "required": true
         },
         {
-            "fileID": 5531210,
+            "fileID": 6120515,
             "projectID": 526901,
             "required": true
         },
@@ -561,7 +576,7 @@
             "required": true
         },
         {
-            "fileID": 5907944,
+            "fileID": 6119137,
             "projectID": 281849,
             "required": true
         },
@@ -626,7 +641,7 @@
             "required": true
         },
         {
-            "fileID": 6070477,
+            "fileID": 6118213,
             "projectID": 582327,
             "required": true
         },
@@ -641,7 +656,7 @@
             "required": true
         },
         {
-            "fileID": 5392622,
+            "fileID": 6112857,
             "projectID": 832882,
             "required": true
         },
@@ -651,23 +666,13 @@
             "required": true
         },
         {
-            "fileID": 6029750,
+            "fileID": 6109078,
             "projectID": 1104882,
             "required": true
         },
         {
             "fileID": 5597377,
             "projectID": 945479,
-            "required": true
-        },
-        {
-            "fileID": 5532573,
-            "projectID": 1062867,
-            "required": true
-        },
-        {
-            "fileID": 5299534,
-            "projectID": 975586,
             "required": true
         }
     ]

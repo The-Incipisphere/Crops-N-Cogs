@@ -44,6 +44,9 @@
 # Ignore dotenv files from Node.js
 .env
 
+# Ignore krita backup extensions (TO ALL CONTRIBUTORS, PUT YOUR BACKUP PREFIX OF CHOICE HERE)
+*.kritaback
+
 ### https://raw.github.com/github/gitignore/cc542de017c606138a87ee4880e5f06b3a306def/Global/Linux.gitignore
 *~
 

@@ -18,3 +18,9 @@ global.problematicBlocksAndItems = new Map([
         ]
     ]*/
 ]);
+/**
+ * An array of all multiblock controller blocks. Define them here, for use in all other scripts.
+ */
+global.multiblockControllerBlocks = [
+    "mbd2:cobblestone_furnace"
+]

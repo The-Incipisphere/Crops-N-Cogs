@@ -6,5 +6,5 @@ StartupEvents.registry('block', event => {
         .resistance(15)
         .requiresTool(true)
         .tagBlock('minecraft:mineable/pickaxe')
-        .tagBlock('minecraft:needs_iron_tool')
-})
+        .tagBlock('minecraft:needs_iron_tool');
+});

@@ -1,3 +1,3 @@
 GTCEuServerEvents.oreVeins(event => {
-    event.removeAll()
-})
+    event.removeAll();
+});

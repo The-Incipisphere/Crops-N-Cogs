@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_top",
+        "down": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_bottom",
+        "north": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_side",
+        "east": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_side",
+        "south": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_side",
+        "west": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_side",
+        "particle": "kubejs:block/multiblocks/cobblestone_furnace/cobblestone_furnace_bottom"
+    }
+}

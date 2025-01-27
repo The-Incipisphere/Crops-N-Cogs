@@ -1,0 +1,10 @@
+{
+    "type": "cropsncogs:home_of_the_creator",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "biome": "cropsncogs:home_of_the_creator",
+            "layers": []
+        }
+    }
+}

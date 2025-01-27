@@ -14,7 +14,6 @@ ItemEvents.tooltip(event => {
     });
     // Denote controller blocks.
     global.multiblockControllerBlocks.forEach(element => {
-        event.add(element, Text.darkRed("Multiblock Controller Block."));
-        event.add(element, Text.darkRed("Internal use only."));
+        event.add(element, Text.gold("Multiblock Controller Block"));
     });
 });

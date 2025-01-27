@@ -1,7 +1,7 @@
 {
     "block.machine.furnace": {
         "sounds": [{
-            "name": "machine/furnace"
+            "name": "kubejs:machine/furnace"
         }],
         "subtitle": "Furnace Crackles"
     }

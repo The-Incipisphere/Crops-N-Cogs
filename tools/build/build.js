@@ -31,7 +31,8 @@ const includeList = [
   "patchouli_books",
   "mods",
   "quests_structures",
-  "scripts"
+  "scripts",
+  "tacz"
 ]
 
 /**

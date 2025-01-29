@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "research"
+	group: ""
+	id: "292DE85A9C4EE0B1"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "741EB15D5E25E3AC"
+		tasks: [
+			{
+				count: 8L
+				id: "598EE0FC365472F9"
+				item: { Count: 8, id: "cropsncogscore:magnetite_harvested" }
+				type: "item"
+			}
+			{
+				count: 8L
+				id: "7D96749698B07242"
+				item: { Count: 8, id: "cropsncogscore:chalcopyrite_harvested" }
+				type: "item"
+			}
+		]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Research"
+}

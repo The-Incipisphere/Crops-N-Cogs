@@ -5,14 +5,6 @@
 	group: ""
 	icon: "minecraft:oak_sapling"
 	id: "3C3132268A2B06C4"
-	images: [{
-		height: 1.5d
-		image: "minecraft:block/azalea_top"
-		rotation: 0.0d
-		width: 1.5d
-		x: 0.0d
-		y: 0.0d
-	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
@@ -42,7 +34,7 @@
 					display: {
 						Lore: [
 							"[\"\",{\"text\":\"There's a label attatched...\",\"italic\":false}]"
-							"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"\'Ex Seminibus\'\",\"italic\":false,\"color\":\"dark_green\",\"bold\":true}]"
+							"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"Ex Seminibus\",\"italic\":false,\"color\":\"dark_green\",\"bold\":true}]"
 						]
 						Name: "[\"\",{\"text\":\"Starter Seed Pouch\",\"italic\":false}]"
 					}

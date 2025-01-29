@@ -29,7 +29,7 @@
 			display: {
 				Lore: [
 					"[\"\",{\"text\":\"There's a label attatched...\",\"italic\":false}]"
-					"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"\'Teterrimi discriminis\'\",\"italic\":false,\"bold\":true,\"color\":\"dark_green\"}]"
+					"[\"\",{\"text\":\"It reads: \",\"italic\":false},{\"text\":\"Teterrimi discriminis\",\"italic\":false,\"bold\":true,\"color\":\"dark_green\"}]"
 				]
 				Name: "[\"\",{\"text\":\"Emergency Seed Pouch\",\"italic\":false}]"
 			}

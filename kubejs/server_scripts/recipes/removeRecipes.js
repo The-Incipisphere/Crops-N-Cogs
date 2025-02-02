@@ -7,6 +7,7 @@ ServerEvents.recipes(event => {
         event.remove({ output: key })
     });
 
+    // Nuke ALL the recipes!
     event.remove({ mod: 'create' });
     event.remove({ mod: 'gtceu' });
     event.remove({ mod: 'railways' });

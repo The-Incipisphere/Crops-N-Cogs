@@ -15,5 +15,6 @@ ItemEvents.tooltip(event => {
     // Denote controller blocks.
     global.multiblockControllerBlocks.forEach(element => {
         event.add(element, Text.gold("Multiblock Controller Block"));
+        event.add(element, Text.red("(Not obtainable!)"));
     });
 });

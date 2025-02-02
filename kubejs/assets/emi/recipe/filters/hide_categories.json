@@ -5,6 +5,15 @@
             "category": "minecraft:crafting"
         },
         {
+            "category": "minecraft:blasting"
+        },
+        {
+            "category": "minecraft:smoking"
+        },
+        {
+            "category": "minecraft:campfire_cooking"
+        },
+        {
             "category": "emi:grinding"
         },
         {

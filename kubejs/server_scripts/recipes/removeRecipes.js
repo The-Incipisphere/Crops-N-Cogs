@@ -18,9 +18,9 @@ ServerEvents.recipes(event => {
         )
     });
 
-    event.remove({mod: 'create'})
-    event.remove({mod: 'gtceu'})
-    event.remove({mod: 'greate'})
-    event.remove({mod: 'mekanism'})
-    event.remove({mod: 'pneumaticcraft'})
+    event.remove({mod: 'create'});
+    event.remove({mod: 'gtceu'});
+    event.remove({mod: 'greate'});
+    event.remove({mod: 'mekanism'});
+    event.remove({mod: 'pneumaticcraft'});
 })

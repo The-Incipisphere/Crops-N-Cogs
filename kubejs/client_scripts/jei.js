@@ -1,7 +1,10 @@
-JEIEvents.removeCategories(event => {
-    // TODO: try and hide everything that server_scripts/recipes/removeRecipes.js couldnt catch (mostly because of hardcodedness (smh))
-    console.log(event.categoryIds)
-    event.remove('gtceu:multiblock_info');
-    event.remove('gtceu:bedrock_fluid_diagram');
-    event.remove('gtceu:arc_furnace');
-});
+//! Not for hiding categories! Use kubejs/assets/emi/recipe/filters/hide_categories.json instead!
+JEIEvents.hideItems(event => {
+    // Gregtech
+    event.hide([
+        // Ores
+        Ingredient.of(/gtceu:.*ore/),
+        Ingredient.of(/gtceu:.*indicator/),
+        Ingredient.of(/gtceu:.*raw.*block/),
+    ])
+})

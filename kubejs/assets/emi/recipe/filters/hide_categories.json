@@ -1,0 +1,112 @@
+{
+    "filters": [
+        {
+            "id": "/crafting\/repair/",
+            "category": "minecraft:crafting"
+        },
+        {
+            "category": "emi:grinding"
+        },
+        {
+            "id": "/(bucket_filling|stripping|waxing|cauldron_washing|flower_duping|concrete|tilling|flattening)/",
+            "category": "emi:world_interaction"
+        },
+        {
+            "category": "emi:anvil_repairing"
+        },
+        {
+            "category": "create:automatic_shaped" 
+        },
+        {
+            "category": "create:automatic_shapeless" 
+        },
+        {
+            "category": "create:automatic_brewing" 
+        },
+        {
+            "category": "create:automatic_packing" 
+        },
+        {
+            "category": "create:draining" 
+        },
+        {
+            "category": "create:spout_filling"
+        },
+        {
+            "category": "create:fan_blasting"
+        },
+        {
+            "category": "create:fan_smoking"
+        },
+        {
+            "category": "create:mystery_conversion"
+        },
+        {
+            "category": "gtceu:multiblock_info"
+        },
+        {
+            "category": "gtceu:bedrock_fluid_diagram"
+        },
+        {
+            "category": "gtceu:arc_furnace"
+        },
+        {
+            "category": "gtceu:brewery"
+        },
+        {
+            "category": "gtceu:macerator"
+        },
+        {
+            "category": "gtceu:forming_press"
+        },
+        {
+            "category": "gtceu:scanner"
+        },
+        {
+            "category": "jumbofurnace:jumbo_furnace_upgrade"
+        },
+        {
+            "category": "jumbofurnace:jumbo_smelting"
+        },
+        {
+            "category": "morered:soldering"
+        },
+        {
+            "category": "mekanism:boiler_casing"
+        },
+        {
+            "category": "mekanism:crusher"
+        },
+        {
+            "category": "mekanism:energized_smelter"
+        },
+        {
+            "category": "mekanism:nutritional_liquifier"
+        },
+        {
+            "category": "mekanism:sps_casing"
+        },
+        {
+            "category": "pneumaticcraft:etching_tank"
+        },
+        {
+            "category": "pneumaticcraft:heat_properties"
+        },
+        {
+            "category": "pneumaticcraft:memory_essence"
+        },
+        {
+            "category": "pneumaticcraft:plastic_solidifying"
+        },
+        {
+            "category": "pneumaticcraft:spawner_extraction"
+        },
+        {
+            "category": "pneumaticcraft:uv_light_box"
+        },
+        {
+            "category": "pneumaticcraft:yeast_crafting"
+        }
+    
+    ]
+}

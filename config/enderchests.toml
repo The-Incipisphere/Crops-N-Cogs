@@ -29,7 +29,7 @@ full_stack_linking = true
 	chest_size_min = 9
 	#Maximum capacity an EnderChest holds
 	#Range: 9 ~ 54
-	chest_size_max = 27
+	chest_size_max = 54
 
 [access_settings]
 	#When enabled these bags access a players vanilla EnderChest, if disabled they will only be a crafting ingredient

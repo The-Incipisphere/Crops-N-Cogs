@@ -12,9 +12,9 @@
       "water_color": 16777215,
       "water_fog_color": 16777215,
       "music": {
-        "sound": "",
-        "min_delay": 0,
-        "max_delay": 0,
+        "sound": "kubejs:ambient.silence",
+        "min_delay": 2147483647,
+        "max_delay": 2147483647,
         "replace_current_music": true
       },
       "music_volume": 1

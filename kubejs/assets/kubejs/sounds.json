@@ -4,5 +4,9 @@
             "name": "kubejs:machine/furnace"
         }],
         "subtitle": "Furnace Crackles"
+    },
+    "ambient.silence": {
+        "sounds": [],
+        "subtitle": "Silence"
     }
 }

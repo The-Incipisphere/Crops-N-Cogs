@@ -4,4 +4,14 @@ blocks = ["pipez:*_pipe", "mekanism:*_cable", "mekanism:*_conductor", "mekanism:
 not_allowed_blocks = []
 #Whether the facade should be consumed when placed.
 consumeFacade = true
+#Config version. Increment to apply changes.
+#Range: > 1
+configVersion = 1
+#List of additional blocks added in this version.
+added_blocks = []
+#List of blocks from the previous version. Do not modify manually.
+last_version_blocks = []
+#Previous config version. Do not modify manually.
+#Range: > 0
+lastConfigVersion = 1
 

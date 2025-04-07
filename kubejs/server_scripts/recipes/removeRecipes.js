@@ -1,4 +1,4 @@
-// priority: -999
+// priority: 0
 //! THIS RUNS AFTER EVERY OTHER SERVER SCRIPT, TO CATCH ANY STRAGGLERS
 
 ServerEvents.recipes(event => {

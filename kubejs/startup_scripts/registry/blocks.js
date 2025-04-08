@@ -7,4 +7,12 @@ StartupEvents.registry('block', event => {
         .requiresTool(true)
         .tagBlock('minecraft:mineable/pickaxe')
         .tagBlock('minecraft:needs_iron_tool');
+    event.create('plantcrete_bricks')
+        .displayName('Plantcrete Bricks')
+        .stoneSoundType()
+        .hardness(3)
+        .resistance(4)
+        .requiresTool(true)
+        .tagBlock('minecraft:mineable/pickaxe')
+        .tagBlock('minecraft:needs_iron_tool');
 });
